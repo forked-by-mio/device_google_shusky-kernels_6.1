@@ -2940,6 +2940,3 @@
   zs_map_object
   zs_pool_stats
   zs_unmap_object
-  make_kuid
-  from_kuid
-  from_kuid_munged
