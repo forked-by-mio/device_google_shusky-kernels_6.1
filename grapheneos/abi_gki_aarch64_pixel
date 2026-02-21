@@ -942,6 +942,8 @@
   fs_bio_set
   fsnotify
   __fsnotify_parent
+  from_kuid
+  from_kuid_munged
   full_name_hash
   fwnode_get_name
   fwnode_gpiod_get_index
@@ -1371,6 +1373,7 @@
   lru_cache_disable
   lru_disable_count
   mac_pton
+  make_kuid
   mas_empty_area_rev
   mas_find
   max_load_balance_interval
