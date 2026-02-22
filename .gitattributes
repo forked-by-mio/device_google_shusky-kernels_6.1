@@ -2,3 +2,5 @@ vmlinux filter=lfs diff=lfs merge=lfs -text
 unstripped_modules.tar.gz filter=lfs diff=lfs merge=lfs -text
 grapheneos/vmlinux filter=lfs diff=lfs merge=lfs -text
 grapheneos/unstripped_modules.tar.gz filter=lfs diff=lfs merge=lfs -text
+grapheneos/boot.img filter=lfs diff=lfs merge=lfs -text
+grapheneos/vendor_dlkm.img filter=lfs diff=lfs merge=lfs -text
