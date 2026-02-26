@@ -464,7 +464,6 @@ kernel/drivers/nvmem/nvmem_core.ko
 kernel/drivers/gnss/gnss.ko
 kernel/drivers/interconnect/icc-core.ko
 kernel/drivers/interconnect/qcom/interconnect_qcom.ko
-kernel/drivers/kernelsu/kernelsu.ko
 kernel/sound/soundcore.ko
 kernel/sound/core/snd.ko
 kernel/sound/core/snd-hwdep.ko
